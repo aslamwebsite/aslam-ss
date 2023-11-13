@@ -1,0 +1,168 @@
+{
+    
+    "fullText": "homes by ss group",
+    "categories": {
+        "homes": {
+            "LuxuryResidences": [
+                {
+                    "ProjectName": "The Leaf Penthouse",
+                    "location": "Sector 85, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/2045573138spro02.jpg"
+                },
+                {
+                    "ProjectName": "The Hibiscus",
+                    "location": "Sector 50, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/578183282spro03.jpg"
+                },
+                {
+                    "ProjectName": "The Leaf",
+                    "location": "Sector  85, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/721414874spro04.jpg"
+                },
+                {
+                    "ProjectName": "SS LINDEN FLOORS",
+                    "location": "SECTOR 84-85 GURUGRAM",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1831270550Creative-Image (1).jpg"
+                },
+                {
+                    "ProjectName": "SS CENDANA",
+                    "location": "Sector 83, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1217714262Home-a.webp"
+                }
+            ],
+            "DeliveredProjects": [
+                {
+                    "ProjectName": "The Hibiscus Penthouse",
+                    "location": "Sector  50, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/67675341THE HIBISCUS PENTHOUSE.jpg"
+                },
+                {
+                    "ProjectName": "DELIGHT AND SPLENDOUR",
+                    "location": "Sector 57, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1423918489spro07.jpg"
+                },
+                {
+                    "ProjectName": "MAYFIELD GARDENS",
+                    "location": "Sector 51, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1845398811spro08.jpg"
+                },
+                {
+                    "ProjectName": "SOUTHEND",
+                    "location": "Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/148789451spro09.jpg"
+                },
+                {
+                    "ProjectName": "The Hibiscus",
+                    "location": "Sector 50, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1243222039706138878.jpg"
+                },
+                {
+                    "ProjectName": "Aaron Ville",
+                    "location": "Sector 48, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/173061120594488984.jpg"
+                },
+                {
+                    "ProjectName": "Southend Elite",
+                    "location": "Sector 49, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/748986498481368986.jpg"
+                },
+                {
+                    "ProjectName": "The Lilac",
+                    "location": "Sector 49, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/387040490562586781.jpg"
+                },
+                {
+                    "ProjectName": "Radiance Residency",
+                    "location": "Sector 49, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/716418630684021508.jpg"
+                },
+                {
+                    "ProjectName": "Southend Floor (Block A,B &amp; C)",
+                    "location": "Sector 49, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/161568836744818032437445394.jpg"
+                }
+            ],
+            "PremiumResidences": [
+                {
+                    "ProjectName": "The Coralwood",
+                    "location": "Sector 84, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/895856749coralwood.jpg"
+                },
+                {
+                    "ProjectName": "Almeria",
+                    "location": "Sector  84, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/362382895Almeria.jpg"
+                },
+                {
+                    "ProjectName": "The Leaf test",
+                    "location": "Sector 85, New Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1029748055820857416.jpg"
+                }
+            ],
+            "OngoingProjects": [
+                {
+                    "ProjectName": "SS LINDEN PLOTS",
+                    "location": "SECTOR 85, New Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/"
+                }
+            ]
+        },
+        "retail": {
+            "OngoingProjects": [
+                {
+                    "ProjectName": "SS HIGHPOINT",
+                    "location": "Sector 86, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/888084020spro12.jpg"
+                },
+                {
+                    "ProjectName": "SS100",
+                    "location": "Sector 49, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1857833106spro11.jpg"
+                },
+                {
+                    "ProjectName": "SS STRADA",
+                    "location": "Sector 84 Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/2122657947214561525Banner 386 X 292 (1).jpg"
+                }
+            ],
+            "DeliveredProjects": [
+                {
+                    "ProjectName": "SS PLAZA",
+                    "location": "Sector 47, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1041287553ss plaza creative.jpg"
+                },
+                {
+                    "ProjectName": "SS OMNIA",
+                    "location": "Sector 86, New Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1639747515spro13.jpg"
+                }
+            ]
+        },
+        "offices": {
+            "OngoingProjects": [
+                {
+                    "ProjectName": "SS HIGHPOINT",
+                    "location": "Sector 86, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1375996348spro12.jpg"
+                },
+                {
+                    "ProjectName": "SS100",
+                    "location": "Sector 49, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1173261914spro11 (1).jpg"
+                }
+            ],
+            "DeliveredProjects": [
+                {
+                    "ProjectName": "SS PLAZA",
+                    "location": "Sector 47, Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1072857252ss plaza creative.jpg"
+                },
+                {
+                    "ProjectName": "SS OMNIA",
+                    "location": "Sector 86, New Gurugram",
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1055963708spro13.jpg"
+                }
+            ]
+        }
+    }
+}
